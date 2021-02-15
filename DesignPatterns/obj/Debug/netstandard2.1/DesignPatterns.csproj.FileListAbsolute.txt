@@ -1,0 +1,9 @@
+C:\Users\Emily\Downloads\pm-academy-demo-main\pm-academy-demo-main\dotNet\HomeWorks\HomeWork8\DesignPatterns\DesignPatterns\bin\Debug\netstandard2.1\DesignPatterns.deps.json
+C:\Users\Emily\Downloads\pm-academy-demo-main\pm-academy-demo-main\dotNet\HomeWorks\HomeWork8\DesignPatterns\DesignPatterns\bin\Debug\netstandard2.1\DesignPatterns.dll
+C:\Users\Emily\Downloads\pm-academy-demo-main\pm-academy-demo-main\dotNet\HomeWorks\HomeWork8\DesignPatterns\DesignPatterns\bin\Debug\netstandard2.1\DesignPatterns.pdb
+C:\Users\Emily\Downloads\pm-academy-demo-main\pm-academy-demo-main\dotNet\HomeWorks\HomeWork8\DesignPatterns\DesignPatterns\obj\Debug\netstandard2.1\DesignPatterns.csprojAssemblyReference.cache
+C:\Users\Emily\Downloads\pm-academy-demo-main\pm-academy-demo-main\dotNet\HomeWorks\HomeWork8\DesignPatterns\DesignPatterns\obj\Debug\netstandard2.1\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\Emily\Downloads\pm-academy-demo-main\pm-academy-demo-main\dotNet\HomeWorks\HomeWork8\DesignPatterns\DesignPatterns\obj\Debug\netstandard2.1\DesignPatterns.AssemblyInfo.cs
+C:\Users\Emily\Downloads\pm-academy-demo-main\pm-academy-demo-main\dotNet\HomeWorks\HomeWork8\DesignPatterns\DesignPatterns\obj\Debug\netstandard2.1\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Downloads\pm-academy-demo-main\pm-academy-demo-main\dotNet\HomeWorks\HomeWork8\DesignPatterns\DesignPatterns\obj\Debug\netstandard2.1\DesignPatterns.dll
+C:\Users\Emily\Downloads\pm-academy-demo-main\pm-academy-demo-main\dotNet\HomeWorks\HomeWork8\DesignPatterns\DesignPatterns\obj\Debug\netstandard2.1\DesignPatterns.pdb
